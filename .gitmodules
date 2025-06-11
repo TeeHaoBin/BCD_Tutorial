@@ -1,3 +1,6 @@
 [submodule "Tutorial 3/backend/lib/forge-std"]
 	path = Tutorial 3/backend/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Tutorial 3/backend/lib/openzeppelin-contracts"]
+	path = Tutorial 3/backend/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
