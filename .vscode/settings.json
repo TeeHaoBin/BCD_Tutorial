@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/TeeHaoBin/Downloads/jbcrypt-0.4.jar"
+    ]
+}
